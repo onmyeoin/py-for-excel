@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-data = pd.read_excel("data/Demodata.xlsx")
+data = pd.read_excel("data/newDemoData.xlsx")
 
 # data.head()
 
